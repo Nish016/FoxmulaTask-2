@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+}
+
+.App {
+  background-color: #ffa637;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#281a03;
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
+
+.back-icon {
+  position: absolute;
+  width: 15vh;
+  height: 15vh;
+  pointer-events: none;
+}
